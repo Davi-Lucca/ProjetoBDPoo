@@ -1,0 +1,40 @@
+{
+    "pessoas": [
+        {
+            "nome": "Ana Maria",
+            "idade": 28,
+            "cidade": "São Paulo",
+            "ocupacao": "Engenheira"
+        },
+        {
+            "nome": "João Pedro",
+            "idade": 35,
+            "cidade": "Rio de Janeiro",
+            "ocupacao": "Médico"
+        },
+        {
+            "nome": "Mariana Silva",
+            "idade": 22,
+            "cidade": "Belo Horizonte",
+            "ocupacao": "Estudante"
+        },
+        {
+            "nome": "Carlos Souza",
+            "idade": 40,
+            "cidade": "Porto Alegre",
+            "ocupacao": "Professor"
+        },
+        {
+            "nome": "Lucas Pereira",
+            "idade": 30,
+            "cidade": "Curitiba",
+            "ocupacao": "Designer"
+        },
+        {
+            "nome": "Gabriela Costa",
+            "idade": 26,
+            "cidade": "Salvador",
+            "ocupacao": "Advogada"
+        }
+    ]
+}
